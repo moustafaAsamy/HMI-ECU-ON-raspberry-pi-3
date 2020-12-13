@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>th (3).jfif</file>
+    <file>CaptureF.PNG</file>
+    <file>F.PNG</file>
+    <file>shutdown (2).png</file>
+    <file>shutdown (1).png</file>
+    <file>shutdown.png</file>
+    <file>th (6).jfif</file>
+    <file>Webp.net-resizeimage (2).png</file>
+    <file>Webp.net-resizeimage (2).png</file>
+    <file>Untitled.png</file>
+  </qresource>
+  <qresource prefix="h">
+    <file>ff.jfif</file>
+  </qresource>
+</RCC>

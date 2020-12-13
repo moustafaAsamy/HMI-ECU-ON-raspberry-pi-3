@@ -1,0 +1,8 @@
+import socket
+
+UDP_PORT = 2522
+UDP_IP = ""
+
+sock = socket.socket(socket.AF_INET, # Internet
+             socket.SOCK_DGRAM) # UDP
+sock.bind((UDP_IP, UDP_PORT))
